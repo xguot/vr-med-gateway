@@ -5,9 +5,12 @@ Details cloud-native infrastructure, Zero Trust (mTLS), and regulatory complianc
 
 ## Files
 
-  main.tex      Core LaTeX document
-  Makefile      Build script
-  LICENSE       MIT License
+```text
+.
+├── main.tex      # Core LaTeX document
+├── Makefile      # Build script
+└── LICENSE       # MIT License
+```
 
 ## Build
 
